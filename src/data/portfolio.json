@@ -1,0 +1,189 @@
+{
+  "profile": {
+    "name": "Johnson Chen",
+    "title": "Artist • Coder • Board Game Enthusiast",
+    "description": "I'm a passionate high school senior who loves combining creativity with technology. Whether I'm painting a new canvas, coding an innovative app, or strategizing over a board game, I'm always looking for ways to solve problems and bring people together through shared experiences.",
+    "interests": [
+      "Digital & Traditional Art",
+      "Full-Stack Development",
+      "Board Game Design",
+      "Community Building"
+    ],
+    "portrait": "https://upload.wikimedia.org/wikipedia/commons/3/36/Kobe_Bryant_Dec_2014.jpg"
+  },
+  "projects": [
+    {
+      "id": "1",
+      "title": "Board Game Meetup App",
+      "description": "A React app connecting board game enthusiasts for local meetups. Features real-time chat, event scheduling, and game library integration.",
+      "technologies": [
+        "React",
+        "Convex",
+        "Tailwind"
+      ],
+      "link": "https://boardgame-meetup.app",
+      "github": "https://github.com/johnsonchen/boardgame-meetup",
+      "featured": true,
+      "category": "coding",
+      "thumbnail": "https://images.unsplash.com/photo-1610890716171-6b1bb98ffd09?w=400&h=300&fit=crop"
+    },
+    {
+      "id": "2",
+      "title": "Memory Quest",
+      "description": "A board game-themed memory matching game with progressive difficulty levels and beautiful artwork inspired by classic board games.",
+      "technologies": [
+        "JavaScript",
+        "HTML5 Canvas",
+        "CSS3",
+        "Web Audio API"
+      ],
+      "link": "https://memory-quest.netlify.app",
+      "github": "https://github.com/johnsonchen/memory-quest",
+      "featured": true,
+      "category": "coding",
+      "thumbnail": "https://images.unsplash.com/photo-1611996575749-79a3a250f948?w=400&h=300&fit=crop"
+    },
+    {
+      "id": "3",
+      "title": "Study Buddy Scheduler",
+      "description": "A collaborative study scheduling app for high school students with calendar integration and group study features.",
+      "technologies": [
+        "Vue.js",
+        "Express.js",
+        "MongoDB",
+        "Socket.io"
+      ],
+      "github": "https://github.com/johnsonchen/study-buddy",
+      "featured": false,
+      "category": "coding",
+      "thumbnail": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=400&h=300&fit=crop"
+    }
+  ],
+  "awards": [
+    {
+      "id": "1",
+      "title": "IYAC Global Youth Art Contest (Golden Award)",
+      "organization": "IYAC",
+      "date": "2023",
+      "description": "Golden Award recipient at the IYAC Global Youth Art Contest."
+    },
+    {
+      "id": "2",
+      "title": "Social Justice Awards (Third Prize)",
+      "organization": "Social Justice Awards",
+      "date": "2024",
+      "description": "Third Prize recognition for social justice themed work."
+    },
+    {
+      "id": "3",
+      "title": "National PTA Reflections",
+      "organization": "National PTA",
+      "date": "2024",
+      "description": "Recognized in the National PTA Reflections program."
+    }
+  ],
+  "activities": [
+    {
+      "id": "1",
+      "title": "UCLA Summer Art Institute",
+      "type": "summer",
+      "organization": "UCLA",
+      "duration": "Summer",
+      "description": "Studio-based intensive in the visual arts."
+    },
+    {
+      "id": "2",
+      "title": "Stanford Summer Session",
+      "type": "summer",
+      "organization": "Stanford University",
+      "duration": "Summer",
+      "description": "Academic enrichment and coursework."
+    },
+    {
+      "id": "3",
+      "title": "American Mental Development Research and Education Organization",
+      "type": "club",
+      "organization": "AMDERO",
+      "duration": "Ongoing",
+      "description": "Participation in research and education initiatives."
+    },
+    {
+      "id": "4",
+      "title": "CCDEC Club Board",
+      "type": "club",
+      "organization": "CCDEC",
+      "duration": "Ongoing",
+      "description": "Board member supporting club activities and operations."
+    },
+    {
+      "id": "5",
+      "title": "U.S. House of Representatives, Congressional App Challenges",
+      "type": "club",
+      "organization": "U.S. House of Representatives",
+      "duration": "2024",
+      "description": "Participation in the Congressional App Challenge."
+    },
+    {
+      "id": "6",
+      "title": "Second Harvest Food Bank of Orange County",
+      "type": "volunteering",
+      "organization": "Second Harvest Food Bank of Orange County",
+      "duration": "Ongoing",
+      "description": "Volunteer support for community food distribution events.",
+      "impact": "Supported community food assistance efforts."
+    },
+    {
+      "id": "7",
+      "title": "Los Angeles Marathon",
+      "type": "volunteering",
+      "organization": "Los Angeles Marathon",
+      "duration": "Event",
+      "description": "Event-day volunteer support for race operations.",
+      "impact": "Supported runners and event logistics."
+    },
+    {
+      "id": "8",
+      "title": "Irvine Global Village",
+      "type": "volunteering",
+      "organization": "City of Irvine",
+      "duration": "Event",
+      "description": "Volunteer support at the multicultural community festival.",
+      "impact": "Assisted with community engagement and activities."
+    },
+    {
+      "id": "9",
+      "title": "Los Angeles Dodgers Foundation Sunset Run 2025",
+      "type": "volunteering",
+      "organization": "Los Angeles Dodgers Foundation",
+      "duration": "2025",
+      "description": "Volunteer support for the Sunset Run 2025 event.",
+      "impact": "Assisted with participant support and event operations."
+    }
+  ],
+  "artworks": [
+    {
+      "id": "1",
+      "title": "Digital Dreams",
+      "medium": "Mixed Media on Canvas",
+      "year": "2023",
+      "description": "A vibrant exploration of how technology shapes our imagination, combining traditional painting with digital elements.",
+      "imageUrl": "https://images.unsplash.com/photo-1541961017774-22349e4a1262?w=400&h=300&fit=crop"
+    },
+    {
+      "id": "2",
+      "title": "Game Night",
+      "medium": "Acrylic on Canvas",
+      "year": "2024",
+      "description": "A warm, inviting scene capturing the joy and connection found in board game gatherings.",
+      "imageUrl": "https://images.unsplash.com/photo-1606092195730-5d7b9af1efc5?w=400&h=300&fit=crop"
+    },
+    {
+      "id": "3",
+      "title": "Code Poetry",
+      "medium": "Digital Art",
+      "year": "2023",
+      "description": "An abstract representation of programming logic transformed into flowing, organic forms.",
+      "imageUrl": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=400&h=300&fit=crop"
+    }
+  ]
+}
