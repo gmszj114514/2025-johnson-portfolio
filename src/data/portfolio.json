@@ -21,11 +21,11 @@
         "Convex",
         "Tailwind"
       ],
-      "link": "https://boardgame-meetup.app",
-      "github": "https://github.com/johnsonchen/boardgame-meetup",
+      "link": "https://johnson-board-games.vercel.app",
+      "github": "https://github.com/gmszj114514/johnson-board-games",
       "featured": true,
       "category": "coding",
-      "thumbnail": "https://images.unsplash.com/photo-1610890716171-6b1bb98ffd09?w=400&h=300&fit=crop"
+      "thumbnail": "/imgs/meetup.jpeg"
     },
     {
       "id": "2",
@@ -37,26 +37,11 @@
         "CSS3",
         "Web Audio API"
       ],
-      "link": "https://memory-quest.netlify.app",
-      "github": "https://github.com/johnsonchen/memory-quest",
+      "link": "https://memory-game-alpha-six.vercel.app",
+      "github": "https://github.com/gmszj114514/memory-game",
       "featured": true,
       "category": "coding",
-      "thumbnail": "https://images.unsplash.com/photo-1611996575749-79a3a250f948?w=400&h=300&fit=crop"
-    },
-    {
-      "id": "3",
-      "title": "Study Buddy Scheduler",
-      "description": "A collaborative study scheduling app for high school students with calendar integration and group study features.",
-      "technologies": [
-        "Vue.js",
-        "Express.js",
-        "MongoDB",
-        "Socket.io"
-      ],
-      "github": "https://github.com/johnsonchen/study-buddy",
-      "featured": false,
-      "category": "coding",
-      "thumbnail": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=400&h=300&fit=crop"
+      "thumbnail": "/imgs/memgame.jpeg"
     }
   ],
   "awards": [
@@ -80,6 +65,13 @@
       "organization": "National PTA",
       "date": "2024",
       "description": "Recognized in the National PTA Reflections program."
+    },
+    {
+      "id": "4",
+      "title": "“Happy Degart 2023” International Kids Art Contest",
+      "organization": "DEGA International Art Association",
+      "date": "2023",
+      "description": "Honorable Mentioned in the 'Happy Degart 2023' International Kids Art Contest under Mixed Media category."
     }
   ],
   "activities": [
@@ -163,27 +155,51 @@
   "artworks": [
     {
       "id": "1",
-      "title": "Digital Dreams",
-      "medium": "Mixed Media on Canvas",
-      "year": "2023",
-      "description": "A vibrant exploration of how technology shapes our imagination, combining traditional painting with digital elements.",
-      "imageUrl": "https://images.unsplash.com/photo-1541961017774-22349e4a1262?w=400&h=300&fit=crop"
+      "title": "Shake A Hand With The Past",
+      "medium": "Installation Art",
+      "year": "2022",
+      "description": "Recreated a hand-shaped sculpture using feathers to reflect my emotional transition during a major turning point in my life.",
+      "imageUrl": "/imgs/shake.jpg"
     },
     {
       "id": "2",
-      "title": "Game Night",
-      "medium": "Acrylic on Canvas",
+      "title": "Their Shadow Embrace Me",
+      "medium": "Installation Art",
       "year": "2024",
-      "description": "A warm, inviting scene capturing the joy and connection found in board game gatherings.",
-      "imageUrl": "https://images.unsplash.com/photo-1606092195730-5d7b9af1efc5?w=400&h=300&fit=crop"
+      "description": "A series of transparent resin sculptures cast from the hands of important people in my life, exploring how their presence and memories shaped my identity.",
+      "imageUrl": "/imgs/shadow.jpg"
     },
     {
       "id": "3",
-      "title": "Code Poetry",
-      "medium": "Digital Art",
-      "year": "2023",
-      "description": "An abstract representation of programming logic transformed into flowing, organic forms.",
-      "imageUrl": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=400&h=300&fit=crop"
+      "title": "I Do Remember",
+      "medium": "Oil Painting",
+      "year": "2024",
+      "description": "A portrait of a friend I may never meet again, created to preserve the emotional weight of farewell.",
+      "imageUrl": "/imgs/remember.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Isolation",
+      "medium": "Oil Painting",
+      "year": "2024",
+      "description": "An oil painting addressing school bullying, submitted to the Social Justice Award.",
+      "imageUrl": "/imgs/Isolation.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Who’ll E’er Feel Sorry For Those Who Were Lost",
+      "medium": "Mixed Media",
+      "year": "2025",
+      "description": "Inspired by a Chinese poem sentence curved on a wooden table in Stanford Library that said: “Border mountains are difficult to cross – Who'll e'er feel sorry for those who were lost?” Created by acrylic paints on transparent PVC. ",
+      "imageUrl": "/imgs/sorry.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Internal Friction",
+      "medium": "Mixed Media",
+      "year": "2025",
+      "description": "Created with blades on paper, depicting how memories can generate internal tension and emotional harm.",
+      "imageUrl": "/imgs/friction.JPG"
     }
   ]
 }
